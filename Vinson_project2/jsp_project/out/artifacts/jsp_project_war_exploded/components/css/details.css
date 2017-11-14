@@ -1,0 +1,63 @@
+div {
+    padding-left: 10px;
+    padding-right: 20px;
+}
+html {
+    height: 100%;
+    min-height: 100%;
+    position: relative;
+}
+.pic {
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+
+.center {
+    margin: 70px auto 50px auto;
+    float: none;
+}
+
+.callout {
+    margin: 20px 0;
+    padding: 20px;
+    border-left: 3px solid #eee;
+}
+
+.callout-info {
+    background-color: #f4f8fa;
+    border-color: #1abc9c;
+}
+
+.ui-datepicker,.ui-datepicker-title,.ui-datepicker-header {
+    padding-left: 0;
+    padding-right: 0;
+}
+.ui-datepicker-title{
+    height:44px;
+    vertical-align:middle;
+}
+.ui-datepicker-month {
+    /*padding-top: 10px;*/
+}
+#wapper{
+    position:relative;
+    height:auto;
+    min-height:100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+#footer{
+    position: absolute;
+    bottom:0;
+    left:0;
+    height:104px;
+    padding-left: 0;
+    padding-right: 0;
+    width:100%;
+}
+#main-content{
+    padding-bottom:104px;
+    padding-left: 0;
+    padding-right: 0;
+}
